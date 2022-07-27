@@ -6,16 +6,16 @@ import moment from 'moment-timezone'
 
 /*Oᴡɴᴇʀ number*/
 global.owner = [
-  ['6282195322106', '️Oᴡɴᴇʀ One ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Two ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Three ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Four ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Five ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Six ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Seven ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Eight ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Nine ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true],
-  ['6282195322106', '️Oᴡɴᴇʀ Teen ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ', true]
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true],
+  ['62895330437426', '️Oᴡɴᴇʀ One CHIKA BOT ⁻ ᴹ ᴰ', true]
 ]
 global.mods = []
 global.prems = []
@@ -71,8 +71,8 @@ let keyalpha = api[Math.floor(Math.random() * api.length)]
 global.apikeys = keyalpha
 
 /*Number*/
-global.nomorbot = '6285171216276'
-global.nomorown = '6282195322106'
+global.nomorbot = '62895330437426'
+global.nomorown = '62895330437426'
 global.namebot = 'ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 global.nameown = 'Oᴡɴᴇʀ ᴴ ᴵ ᴺ ᴬ ᵀ ᴬ ⁻ ᴹ ᴰ'
 
@@ -434,18 +434,13 @@ global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2
 global.gcwangsaf = 'https://chat.whatsapp.com/I2cagI7uWN59oxMomPQvfM'
 
 /*Donasi*/
-global.saweria = 'https://saweria.co/wudysoft'
-global.dana = ['0887435373103']
-global.pulsa = ['082195322106']
-global.trakteer = 'https://trakteer.id/wudysoft'
-global.paypal = 'wudysoft@gmail.com'
-global.gopay = '082195322106'
-global.pdana = '0887435373103'
-global.povo = '082195322106'
-global.pgopay = '082195322106'
-global.ppulsa = '082195322106'
-global.ppulsa2 = '082195322106'
-global.psaweria = 'https://saweria.com/Wudysoft'
+global.dana = ['083167581315']
+global.pulsa = ['083167581315']
+global.gopay = '083167581315'
+global.pdana = '083167581315'
+global.pgopay = '083167581315'
+global.ppulsa = '083167581315'
+global.ppulsa2 = '083167581315'
 
 /*Emoji*/
 global.rpg = {
